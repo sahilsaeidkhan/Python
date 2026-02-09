@@ -1,1 +1,1 @@
-print("This is my first python code ( Date is 3 October)")
+print("This is my first python code ( Date - 3 October)")
