@@ -54,3 +54,14 @@ pattern(i)
 
 
 
+## factorial using function
+
+def factorial(fact):
+    store = 1
+    for i in range(1,fact+1):
+        store = store * i
+    return store
+
+
+fact = int(input("Enter a number to print it factorial: "))
+print(factorial(fact))
