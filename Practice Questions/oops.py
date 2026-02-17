@@ -41,7 +41,7 @@ class Student:
 
 
 
-s1 = Student("Krishna",[94,94,88])
+s1 = Student("Krishna",[94,94,98])
 s1.avg()
 
 
@@ -75,15 +75,13 @@ class Account:
         self.account = accountno
 
     def debit(self,amount):
-        self.amount = amount
         self.balance-=amount
-        print("Amount debited is" , self.amount)
+        print("Amount debited is" , amount)
         print("The remaining amount is", self.balance)
         
     def credit(self,amount):
-        self.amount = amount
         self.balance+=amount
-        print("Amount credited is" , self.amount)
+        print("Amount credited is" ,amount)
         print("The remaining amount is", self.balance)
 
 
