@@ -11,7 +11,7 @@ def exist(arr,target):
         sum = arr[start]+arr[end]
 
         if sum==target:
-            return True
+            return arr[start] ,arr[end]
         elif sum<target:
           start+=1
         else:
