@@ -41,7 +41,69 @@
 
 
 
-def sum ( a = 3 , b=2):
-    return a+b
+# def sum ( a = 3 , b=2):
+#     return a+b
 
-print(sum())
+# print(sum())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# import time
+
+# print("task started")
+# time.sleep(2)
+
+# print("Task 1 done")
+
+# time.sleep(2)
+
+# print("Task 2 done")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# import multiprocessing
+# import os
+
+# def processid():
+#     print("process id is " , os.getpid() )
+      
+
+# if __name__ == "__main__" :
+#    p1 = multiprocessing.Process(target=processid)
+#    p2 = multiprocessing.Process(target=processid)
+
+#    p1.start()
+#    p2.start()
+
+#    p1.join()
+#    p2.join()
+
+# print("program ends")
