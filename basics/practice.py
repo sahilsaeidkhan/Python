@@ -107,3 +107,46 @@
 #    p2.join()
 
 # print("program ends")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Question (medium)
+
+# OpenAI API Error: OPENAI_API_KEY not configured. Please set it in your .env and reload VS Code.
+
+# Hint
+# Start with a small helper function and test it on one simple input before handling all cases.
+
+# def solve_example(value):
+#     return value
+
+# if __name__ == "__main__":
+#     print(solve_example(1))
+
+# Question Explanation
+# This question asks you to write a function that solves the required task correctly. Break it into small steps: understand input, process data, and return the final result.
