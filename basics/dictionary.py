@@ -134,3 +134,8 @@ circle_calc(5)
 
 
 
+
+
+# Question (easy)
+
+# OpenAI API Error: OPENAI_API_KEY not configured. Please set it in your .env and reload VS Code.
