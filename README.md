@@ -82,3 +82,11 @@ NumPy library fundamentals:
 ## Contributing
 
 Feel free to add new scripts, improve existing code, or suggest new exercises!
+
+## How to use
+
+Pick any topic folder and run the scripts in order — each file builds on the previous one. Most scripts only need a plain Python 3 install; the data folders (NumPy, Pandas, Matplotlib & Seaborn) need the usual data-science packages:
+
+```bash
+pip install numpy pandas matplotlib seaborn
+```
